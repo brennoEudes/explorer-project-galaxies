@@ -15,7 +15,9 @@ body {
 }
 
 .card {
-  padding: 0 3.2rem 3.2rem;
+  border-radius: 8px;
+  border: 2px solid #323238;
+  background: #202024;
 }
 
 .card h2 {
@@ -29,4 +31,6 @@ body {
   font-size: 1.8rem;
   font-weight: 600;
   line-height: normal;
+
+  padding: 2.4rem 3.2rem 3.2rem;
 }
