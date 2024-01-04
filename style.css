@@ -21,9 +21,12 @@ body {
 .card h2 {
   color: #e1e1e6;
   font-size: 3.6rem;
+  font-weight: 900;
 }
 
 .card p {
   color: #c4c4cc;
   font-size: 1.8rem;
+  font-weight: 600;
+  line-height: normal;
 }
